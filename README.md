@@ -3,7 +3,7 @@ files includes:
 
   ```preface_environment```: getting start of the qiskit from set up the virual environment.
   
-  ```single-qubit, two-qubit, three-or-more qubit operations; bloch-sphere,density-matrix,multi-controlled X```: Qubits formalism and Quantum circuits, basic use and commmand of the qiskit.
+  ```single-qubit, two-qubit, three-or-more qubit operations, density-matrix```: Qubits formalism and Quantum circuits, basic use and commmand of the qiskit.
   
   ```Hall-Classical,Hall-corrections,Hall-SdH,sdH analysis,sDH-QHE,fenics-Greek-cross```: quantum transport(linear transport theory and Boltzmann equation) and 2DCG(2 dimensional carrier gases), magnetic fields at low temperature.
   
