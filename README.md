@@ -1,4 +1,4 @@
-# the qiskit practice about the course : _semiconductor qubit_.
+# the qiskit practice about : _semiconductor qubit_.
 files includes: 
 
   ```preface_environment```: getting start of the qiskit from set up the virual environment.
